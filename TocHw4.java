@@ -1,4 +1,5 @@
-// author : ¶À¤å§Ó F74006268
+// author       : ¶À¤å§Ó F74006268
+// description  : parse json about house data and use RE to finish HW4
 
 import org.json.*;
 import java.io.*;
